@@ -8,19 +8,7 @@
 
 3. Write a function that checks for lowercase character.
 
-
-
-3. Write a function that checks for lowercase character.
-
-
-
-3. Write a function that checks for lowercase character.
-
-
-
-
-
-
+4. Write a function that checks for alphabetic character.
 
 
 
