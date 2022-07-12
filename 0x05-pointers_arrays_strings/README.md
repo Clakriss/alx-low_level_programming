@@ -5,6 +5,10 @@
 
 2. Write a function that returns the length of a string.
 
+3. Write a function that prints a string, followed by a new line, to stdout.
+
+
+
 
 
 
