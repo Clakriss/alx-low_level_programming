@@ -3,6 +3,10 @@
 
 1. Write a function that swaps the values of two integers.
 
+2. Write a function that returns the length of a string.
+
+
+
 
 
 
