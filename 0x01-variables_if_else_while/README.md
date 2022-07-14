@@ -28,7 +28,8 @@
 
 9. Write a program that prints all possible combinations of single-digit numbers.Numbers must be separated by ,, followed by a space.Numbers should be printed in ascending order
 
-
+10. Write a program that prints all possible different combinations of two digitS.
+Numbers must be separated by ,, followed by a space.The two digits must be different.01 and 10 are considered the same combination of the two digits 0 and 1.Print only the smallest combination of two digits.Numbers should be printed in ascending order, with two digits
 
 
 
