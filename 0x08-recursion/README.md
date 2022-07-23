@@ -5,8 +5,11 @@
 
 2. Write a function that returns the length of a string.
 
+3. Write a function that returns the factorial of a given number.
 
 
+
+ 
 
 
 
